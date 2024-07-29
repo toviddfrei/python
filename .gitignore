@@ -1,5 +1,5 @@
-constructor
-bin
-include
-lib
+constructor/
+bin/
+include/
+lib/
 pyvenv.cfg
